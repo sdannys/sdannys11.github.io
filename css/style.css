@@ -1,0 +1,56 @@
+@important url(link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet");
+
+header{
+  border: 10px solid black;
+  font-family: Bitter;
+  color: blue;
+  text-align: center;
+  font-size: 2em;
+  margin: 0px;
+  background-color: yellow;
+}
+
+h2{
+  font-family: Bitter;
+  color: yellow;
+  font-size: 2em;
+  padding: 10px;
+  background-color: black;
+  text-align: center;
+}
+article{
+  width: 38%;
+  float: left;
+  margin: 3% 3%;
+  border: 5px solid blue;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-color: black;
+  clear: right; 
+  padding-left: 40px;
+  height: 850px;
+}
+p{
+  color: white;
+  font-family: Bitter;
+  font-size: 1.2em;
+}
+footer{
+  clear:both;
+  border: 5px solid blue;
+  font-size: 1.5em;
+  background-color: black;
+  font-family: Bitter;
+  text-align: center;
+  font-type: bold;
+}
+
+ul {
+  font-size: 1.5em;
+  color: yellow;
+}
+#wolverine:hover{
+  transform: rotate(-45deg);
+  
+}
